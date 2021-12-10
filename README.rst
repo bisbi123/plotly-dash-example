@@ -1,12 +1,14 @@
-# plotly-dash-example
+plotly-dash-example
+====================
 
-## Project Dependencies
+Project Dependencies
+---------------------
 
  - Python 3.9.5
  - Poetry version 1.1.8
 
 
-## Python Dependencies
-
+Python Dependencies
+---------------------
  - dash
  - pandas
