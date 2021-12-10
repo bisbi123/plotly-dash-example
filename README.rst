@@ -12,3 +12,14 @@ Python Dependencies
 ---------------------
  - dash
  - pandas
+
+
+Running Application
+-------------------
+If poetry is install run 
+
+```bash
+poetry install
+poetry shell
+python plotly_dash_example/main.py
+```
